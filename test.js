@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is somthing
-=======
-this is everuthing
->>>>>>> everything
+I hate to wake up early
